@@ -1,0 +1,4 @@
+ws/.crossbar/key.priv
+ws/.crossbar/key.pub
+ws/.crossbar/node.pid
+ws/node_modules
