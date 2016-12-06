@@ -9,4 +9,4 @@ Project components:
 * frontend: Web client to show data.
  * calls to iot.serial.get method when connect and subscribe to iot.serial.reader event
 
-https://www.youtube.com/watch?v=5R82chk01Rs
+[![Playing with arduino, IoT, crossbar and websockets](http://img.youtube.com/vi/5R82chk01Rs/0.jpg)](http://www.youtube.com/watch?v=5R82chk01Rs)
