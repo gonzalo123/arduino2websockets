@@ -10,6 +10,10 @@ connection.onopen = function (session) {
     session.register('iot.serial.get', function () {
         return mem;
     });
+
+    session.subscribe('iot.serial.reader', function (args) {
+        mem = args[0];
+    });
 };
 
 connection.open();
